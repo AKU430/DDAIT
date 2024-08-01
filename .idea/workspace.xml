@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6debe6d8-0e3a-4677-a6bc-4ce5007e8226" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/discord/DiscordListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/discord/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/discord/Main.java" afterDir="false" />
+    <list default="true" id="6debe6d8-0e3a-4677-a6bc-4ce5007e8226" name="Changes" comment="Inital Commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/discord/DiscordListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/discord/DiscordListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/discord/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/discord/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,11 +76,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722519438516</updated>
-      <workItem from="1722519439571" duration="1066000" />
+      <workItem from="1722519439571" duration="1480000" />
     </task>
+    <task id="LOCAL-00001" summary="Inital Commit">
+      <option name="closed" value="true" />
+      <created>1722520552223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722520552223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inital Commit" />
   </component>
 </project>

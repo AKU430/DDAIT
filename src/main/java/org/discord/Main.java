@@ -26,8 +26,8 @@ public class Main {
         jda = builder.build();
         CommandListUpdateAction commands = jda.updateCommands();
         commands.addCommands(
-                new CommandDataImpl("command", "Hello, World!를 출력합니다.")
-        );
-        commands.queue();
+                new CommandDataImpl("와사바리", "김찬의 정강이를 깝니다"),
+                new CommandDataImpl("대가리", "김찬의 정수리를 가격합니다")
+        ).queue();
     }
 }
